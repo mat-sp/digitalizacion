@@ -1,0 +1,16 @@
+MontaLab 1.3 - Digitalización 4.º ESO
+
+Abre MontaLab.html directamente en Chrome, Edge o Firefox. Es un archivo autónomo.
+Alternativamente abre MontaLab_Local/index.html y conserva juntos todos los archivos de esa carpeta.
+El simulador funciona sin Internet. Solo los enlaces a documentación de fabricantes necesitan conexión.
+
+Guardar descarga un archivo JSON con la práctica completa. Cargar permite recuperarlo.
+Conserva esa copia antes de cerrar o cambiar de ordenador. El guardado automático del navegador no sustituye al JSON.
+En Entregar, Descargar PDF completo produce el informe final o un borrador, con pruebas e historial.
+
+Novedades: precios fijos; sustitución de una sola pieza con la alimentación desconectada; comprobación de compatibilidad y pedido antes del montaje; cuadro de nombres del grupo.
+Las copias 1.0/1.1 se pueden abrir, pero no se recuperan datos que esas versiones no hubieran conservado.
+Las ilustraciones son representaciones genéricas generadas para el taller, no fotos de cada modelo.
+Fuente PDF DejaVu Sans: véase LICENCIA_FUENTE.txt.
+
+Consulta MontaLab_Guia_Alumnado.pdf en la raíz del paquete.

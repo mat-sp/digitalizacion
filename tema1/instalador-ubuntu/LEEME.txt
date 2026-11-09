@@ -1,0 +1,8 @@
+INSTALALAB - UBUNTU
+Descomprime y abre index.html con doble clic. No requiere Internet ni terminal real.
+Manual Ubuntu: pulsa el encabezado para desplegar/plegar los comandos.
+Rufus: pulsa Empezar y confirma el borrado para iniciar la escritura.
+El checklist muestra 17 tareas. Las 3 reflexiones van aparte.
+Las pendientes se muestran primero; al instalar aparecen las tareas de configuración.
+Se mantienen guardado/carga de sesión e informe PDF.
+Consulta la guía incluida para detalles y limitaciones.
