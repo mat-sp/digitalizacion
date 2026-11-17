@@ -13,3 +13,8 @@ La referencia no sustituye la documentación específica de las herramientas.
 Los recursos externos mantienen su autoría y licencia. jsPDF conserva su aviso
 de licencia MIT dentro del archivo distribuido. En Metadatos, la fotografía
 de PEPE GADEIRAS mantiene CC BY 4.0 y los archivos se conservan sin editar.
+
+La fotografía adicional Skate park, de KylaBorg, mantiene CC BY 2.0.
+Fuente: https://commons.wikimedia.org/wiki/File:Skate_park.jpg
+Licencia: https://creativecommons.org/licenses/by/2.0/
+Se distribuye sin modificar. Detalles en recursos/ATRIBUCION.md.
