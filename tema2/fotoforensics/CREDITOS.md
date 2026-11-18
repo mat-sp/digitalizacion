@@ -19,3 +19,7 @@ Se relacionan las lecturas de integridad, privacidad, navegación segura e ingen
 Las imágenes y los artículos se consultan en sus sitios originales; no se redistribuyen en este paquete. Conservan su autoría y sus condiciones de uso. La inclusión de enlaces no implica respaldo de sus autores a esta práctica.
 
 jsPDF se incluye con su licencia MIT y sus avisos dentro de `vendor/jspdf.umd.min.js`.
+
+## Guía ampliada de uso
+
+Explicaciones y tablas didácticas propias basadas en el tutorial ELA ya consultado y en documentación de ExifTool: https://exiftool.org/TagNames/EXIF.html, https://exiftool.org/TagNames/XMP.html, https://exiftool.org/TagNames/Extra.html y https://exiftool.org/TagNames/MWG.html. Referencia técnica adicional: Neal Krawetz, A Picture’s Worth… (2007), https://www.hackerfactor.com/papers/bh-usa-07-krawetz-wp.pdf.

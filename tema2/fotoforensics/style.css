@@ -10,3 +10,5 @@ code{font-family:ui-monospace,Consolas,monospace;overflow-wrap:anywhere}label{ov
 
 /* Registros de consulta */
 .record-links{display:flex;flex-wrap:wrap;gap:.6rem}.record-links .button{margin:0}.location{border-left:3px solid #b1c6ac;padding-left:1rem}.research-card{scroll-margin-top:90px}input[aria-invalid="true"]{border-color:#a33535}.check span{padding-right:1rem}.reference-links{overflow-wrap:anywhere}
+
+.guide-topic{scroll-margin-top:100px;margin:18px 0;border:1px solid var(--line);border-radius:12px;background:#fff}.guide-topic summary{padding:20px 24px;font-size:17px;cursor:pointer;font-weight:700}.guide-topic .topic-content{padding:0 24px 24px}.guide-topic h3{margin-top:24px}.guide-shortcuts{display:flex;flex-wrap:wrap;gap:8px 20px;margin-bottom:0}.guide-topic table{min-width:580px}.guide-topic li:last-child{padding-bottom:4px}@media(max-width:750px){.guide-topic summary{padding:16px;font-size:16px}.guide-topic .topic-content{padding:0 16px 20px}}
